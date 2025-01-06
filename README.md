@@ -85,6 +85,6 @@ Contributions are welcome! Feel free to fork the repo, submit pull requests, or 
 
 ### Author  
 
-[Your Name](https://github.com/your-username)  
+[Safdar Ali](https://github.com/Safdar-Ali-India/)  
 Passionate about creating fun and useful web tools.
 ```
